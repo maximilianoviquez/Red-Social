@@ -6,7 +6,7 @@ Red Social Hazza - es una aplicacion Web ASP.NET 7.0 MVC, una red social donde p
 **Maximiliano Viquez**
 
 *[LinkedIn](https://www.linkedin.com/in/maximiliano-viquez/)
-*[Red Social - App Web](maximilianoviquez/Red-Social)
+*[Red Social - App Web](http://obligatorio2viquez.somee.com/)
 
 ## Ver ejemplo en vivo
 - [maximilianoviquez/Red-Social](http://obligatorio2viquez.somee.com/)
