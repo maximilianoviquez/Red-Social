@@ -1,0 +1,24 @@
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.deps.json
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.pdb
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.csproj.AssemblyReference.cache
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.AssemblyInfoInputs.cache
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.AssemblyInfo.cs
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/refint/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.pdb
+/Users/maximiliano/Desktop/Obligatorio2-P2/SocialNetwork/Dominio/obj/Release/net7.0/ref/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.deps.json
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/bin/Release/net7.0/Dominio.pdb
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.csproj.AssemblyReference.cache
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.AssemblyInfoInputs.cache
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.AssemblyInfo.cs
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/refint/Dominio.dll
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/Dominio.pdb
+/Users/maximiliano/Desktop/Obligatorio2_P2 2/SocialNetwork/Dominio/obj/Release/net7.0/ref/Dominio.dll

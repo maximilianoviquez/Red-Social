@@ -1,0 +1,245 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+
+}
+
+
+.comentario {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+    .comentario p {
+        margin: 0;
+    }
+
+    .comentario .btn {
+        font-size: 8px;
+        margin-right: 5px;
+    }
+
+
+
+
+
+
+/* Estilos generales */
+body {
+    background-color: #FF8989;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Estilos para los títulos */
+h1 {
+    color: #333;
+}
+
+/* Estilos para los formularios */
+form {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #FF6060;
+    border-radius: 5px;
+    color: #333;
+    background-color: #fff;
+}
+
+select.form-control {
+    height: 40px;
+    background-color: #fff;
+    color: #333;
+}
+
+/* Estilos para los botones */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #FF6060;
+    border: 1px solid #FF6060;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #FF6060;
+    border: 1px solid #FF6060;
+}
+
+/* Estilos para las tablas */
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #FF6060;
+    }
+
+/* Estilos generales */
+body {
+  background-color: #E2D8FF;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Estilos para los títulos */
+h1 {
+  color: #333;
+}
+
+/* Estilos para los formularios */
+form {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #C3A8FF;
+  border-radius: 5px;
+  color: #333;
+  background-color: #fff;
+}
+
+select.form-control {
+  height: 40px;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Estilos para los botones */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #C3A8FF;
+  border: 1px solid #C3A8FF;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #C3A8FF;
+  border: 1px solid #C3A8FF;
+}
+
+/* Estilos para las tablas */
+.table {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #C3A8FF;
+}
+
+/* Estilos para los comentarios */
+.comentario {
+  border: 1px solid #C3A8FF;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Estilos específicos para la página Busqueda.cshtml */
+.table th {
+  background-color: #C3A8FF;
+}
+
+/* Estilos específicos para la página Create.cshtml */
+.row {
+  margin-bottom: 20px;
+}
+
+/* Estilos específicos para las imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Estilos para los mensajes temporales */
+.msg-temporal {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.msg-success {
+  color: #5bc0de;
+  background-color: #46b8da;
+  border: 1px solid #46b8da;
+}
+
+.msg-error {
+  color: #d9534f;
+  background-color: #d9534f;
+  border: 1px solid #d9534f;
+}
